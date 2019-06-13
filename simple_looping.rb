@@ -4,6 +4,8 @@ def loop_iterator(number_of_times)
   # Code your solution here using the "loop" keyword to puts out the below phrase
   counter = 0 
   loop do 
+    counter <=7
+    puts 
     
   # This and all the other methods take an argument of an integer 
   # The integer is the number of times the loops should puts out the phrase
