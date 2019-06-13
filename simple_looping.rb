@@ -7,7 +7,8 @@ def loop_iterator(number_of_times)
   loop do
     puts phrase
     counter += 1 
-    break if 
+    break if counter == number_of_times
+  end
     
   # This and all the other methods take an argument of an integer 
   # The integer is the number of times the loops should puts out the phrase
